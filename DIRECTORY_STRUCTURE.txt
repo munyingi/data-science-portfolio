@@ -1,0 +1,55 @@
+.
+├── DIRECTORY_STRUCTURE.txt
+├── PROJECT_SUMMARY.md
+├── README.md
+├── VALIDATION_REPORT.md
+├── project1_customer_churn
+│   ├── README.md
+│   ├── data
+│   ├── notebooks
+│   ├── requirements.txt
+│   ├── screenshots
+│   ├── src
+│   └── visualizations
+├── project2_sales_dashboard
+│   ├── README.md
+│   ├── data
+│   ├── notebooks
+│   ├── requirements.txt
+│   ├── screenshots
+│   ├── src
+│   └── visualizations
+├── project3_sentiment_analysis
+│   ├── README.md
+│   ├── data
+│   ├── notebooks
+│   ├── requirements.txt
+│   ├── screenshots
+│   ├── src
+│   └── visualizations
+├── project4_image_classification
+│   ├── README.md
+│   ├── data
+│   ├── notebooks
+│   ├── requirements.txt
+│   ├── screenshots
+│   ├── src
+│   └── visualizations
+├── project5_stock_forecasting
+│   ├── README.md
+│   ├── data
+│   ├── notebooks
+│   ├── requirements.txt
+│   ├── screenshots
+│   ├── src
+│   └── visualizations
+└── project6_healthcare_prediction
+    ├── README.md
+    ├── data
+    ├── notebooks
+    ├── requirements.txt
+    ├── screenshots
+    ├── src
+    └── visualizations
+
+36 directories, 16 files
