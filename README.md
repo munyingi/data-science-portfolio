@@ -150,7 +150,7 @@ I am actively seeking opportunities in **data science**, **machine learning engi
 
 **Portfolio Website:** [samwelmunyingi.com](https://samwelmunyingi.com)  
 **GitHub:** [github.com/samwelmunyingi](https://github.com/samwelmunyingi)  
-**Email:** samwel@example.com
+**Email:** contact@samwelmunyingi.com
 
 ---
 
