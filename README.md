@@ -149,7 +149,7 @@ To run any project, navigate to its directory and follow the instructions in the
 I am actively seeking opportunities in **data science**, **machine learning engineering**, and **analytics** roles. If you're interested in collaborating or discussing these projects, please feel free to reach out.
 
 **Portfolio Website:** [samwelmunyingi.com](https://samwelmunyingi.com)  
-**GitHub:** [github.com/samwelmunyingi](https://github.com/samwelmunyingi)  
+**GitHub:** [github.com/samwelmunyingi](https://github.com/munyingi)  
 **Email:** contact@samwelmunyingi.com
 
 ---
